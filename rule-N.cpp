@@ -62,13 +62,6 @@ int main(){
 			if(cells[j].value == 1) m1.add(i, j, ' ', 47);
 		}
 	}
-	m1.print();
-	
-	
-//	//section 3: -------------------------------------------------------------------------
-//	for(int i=0; i<cells.size(); i++){
-//		cells[i].NewValue(config, rule);
-//	}
-	
+	m1.print();
 	
 	return 0;}
